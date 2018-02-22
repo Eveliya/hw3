@@ -1,3 +1,3 @@
-+ *https://docs.google.com/forms/d/1Go_QQcYxhNTZudbImJRjl8faP4bylGhFbyhmOnOOvkY/edit*
-+ *https://docs.google.com/spreadsheets/d/1f_Oe_53jqntWD0gPq3-oUoSLoF_3nkIQ1Lzo1r6TOw4/edit#gid=427950944*
+https://docs.google.com/forms/d/1Go_QQcYxhNTZudbImJRjl8faP4bylGhFbyhmOnOOvkY/edit
+https://docs.google.com/spreadsheets/d/1f_Oe_53jqntWD0gPq3-oUoSLoF_3nkIQ1Lzo1r6TOw4/edit#gid=427950944
 + *Данный опрос был направлен на исследование отношения студентов 1-го курса факультета гуманитарных наук НИУ ВШЭ к дисциплине "Цифровая грамотность". Респондентам были заданы разные виды вопросов: об уровне владения ИКТ, о полезности данной дисциплины, о впечатлениях, полученных во время изучения учебного курса. Кроме того, были заданы вопросы, касающиеся домашнего задания и преподавателей. В опросе участвовал 21 человек.*
